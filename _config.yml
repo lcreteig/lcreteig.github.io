@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Leon C. Reteig"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "PhD student in cognitive neuroscience"
   location         : "University of Amsterdam"
   email            : "leonreteig@gmail.com"
