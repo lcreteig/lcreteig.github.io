@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Leon Reteig"
 title_separator          : "-"
 name                     : "Leon Reteig"
-description              : "Personal website"
+description              : "Personal website of Leon Reteig, PhD student in cognitive neuroscience at the University of Amsterdam"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "lcreteig/lcreteig.github.io"
@@ -104,7 +104,7 @@ author:
   avatar           : "/assets/images/avatar.jpg"
   bio              : "PhD student in cognitive neuroscience"
   location         : "University of Amsterdam"
-  email            : 
+  email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
