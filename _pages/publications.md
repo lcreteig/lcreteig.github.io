@@ -5,7 +5,7 @@ title: Publications
 permalink: /publications/
 ---
 
-**Reteig LC**, Knapen T, Roelofs Floris FJFW, Ridderinkhof Richard K, Slagter, HA (submitted). No evidence that frontal eye field tDCS affects latency or accuracy of prosaccades. *bioRxiv* 351304. [[preprint](https://doi.org/10.1101/351304), [OSF page](https://osf.io/8jpv9), [data](https://doi.org/10.21942/uva.6462770), [code](https://github.com/lcreteig/sacc-tDCS)]
+**Reteig LC**, Knapen T, Roelofs FJFW, Ridderinkhof KR, Slagter, HA (submitted). No evidence that frontal eye field tDCS affects latency or accuracy of prosaccades. *bioRxiv* 351304. [[preprint](https://doi.org/10.1101/351304), [OSF page](https://osf.io/8jpv9), [data](https://doi.org/10.21942/uva.6462770), [code](https://github.com/lcreteig/sacc-tDCS)]
 
 Alilović J, Timmermans B, **Reteig LC**, van Gaal S, Slagter HA (submitted). No evidence that predictions and attention modulate the first feedforward sweep of cortical information processing. *bioRxiv* 351965. [[preprint](https://doi.org/10.1101/351965)]
 
