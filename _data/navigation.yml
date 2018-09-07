@@ -4,10 +4,10 @@ main:
      url: /publications/
    - title: "CV"
      url: /CV_LeonReteig.pdf
-   - title: "Blog"
-     url: /blog/
-   - title: "Contact"
-     url: /contact/
+  # - title: "Blog"
+  #   url: /blog/
+  # - title: "Contact"
+  #   url: /contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
