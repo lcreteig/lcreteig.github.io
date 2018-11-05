@@ -15,8 +15,6 @@ feature_row:
     excerpt: <form id="contactform" method="POST"> <input type="text" name="name" placeholder="Your name" > <input type="text" name="_replyto" placeholder="Your email" > <input type="hidden" name="_subject" value="Website contact" /> <textarea name="message" placeholder="Your message"></textarea> <button type="submit">Submit</button> </form> <script> var contactform =  document.getElementById(\'contactform\'); contactform.setAttribute(\'action\', \'//formspree.io/\' + \'leonreteig\' + \'@\' + \'gmail\' + \'.\' + \'com\'); </script>
 ---
 
-I am a PhD student in the [Cognition and Plasticity lab of Heleen Slagter](https://www.heleenslagter.com), funded by an NWO Research Talent grant.
-
-My research focuses on improving various forms of attention (but mostly spatial attention) through electrical brain stimulation (tDCS). I also have experience with EEG, eye tracking, and psychophysics.
+I am a PhD student in the [Cognition and Plasticity lab](https://www.heleenslagter.com/) of Dr. Heleen Slagter, funded by an NWO Research Talent grant. My research interests include the neural mechanisms of attention, and how attention shapes visual perception. My PhD research focuses on improving various forms of attention (but mostly spatial attention) through transcranial Direct Current Stimulation (tDCS). I also have extensive experience with EEG, as well as eye tracking and psychophysics. I support open science principles and strive to make my work as transparent and reproducible as possible.
 
 {% include feature_row %}
