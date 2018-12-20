@@ -8,7 +8,11 @@ feature_row:
   - title: "News"
     excerpt: "### September 2018
 
-    [New paper](/publications/01-2018-FEF_tDCS) published in Frontiers in Neuroscience!"
+    [New paper](/publications/01-2018-FEF_tDCS) published in Frontiers in Neuroscience!
+
+    ### December 2018
+
+    [New preprint](https://doi.org/10.1101/501544 ) on bioRxiv!"
   - title: <a href="https://twitter.com/LeonReteig?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @LeonReteig</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     excerpt: <a class="twitter-timeline" data-height="300" data-theme="light" data-link-color="#7dc3dd" href="https://twitter.com/LeonReteig?ref_src=twsrc%5Etfw">Tweets by LeonReteig</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   - title: "Contact me"
