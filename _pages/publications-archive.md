@@ -8,9 +8,9 @@ entries_layout: grid
 classes: wide
 ---
 
-**Reteig LC**, van den Brink LR, Prinssen S, Cohen MX, Slagter HA (in press at Cortex). Sustaining attention for a prolonged period of time increases temporal variability in cortical responses. *bioRxiv* 501544. [preprint](https://doi.org/10.1101/501544){: .btn .btn--inverse .btn--small} [OSF page (data & code)](https://doi.org/10.17605/OSF.IO/EMF9H){: .btn .btn--info .btn--small}
+**Reteig LC**, van den Brink LR, Prinssen S, Cohen MX, Slagter HA (2019). Sustaining attention for a prolonged period of time increases temporal variability in cortical responses. *Cortex, 117* 16--32. [link (paywall)](https://doi.org/10.1016/j.cortex.2019.02.016){: .btn .btn--danger .btn--small} [preprint](https://doi.org/10.1101/501544){: .btn .btn--inverse .btn--small} [project website](https://lcreteig.github.io/MFBrain){: .btn .btn--warning .btn--small} [OSF page (data & code)](https://doi.org/10.17605/OSF.IO/EMF9H){: .btn .btn--info .btn--small}
 
-Alilović J, Timmermans B, **Reteig LC**, van Gaal S, Slagter HA (2019). No evidence that predictions and attention modulate the first feedforward sweep of cortical information processing. *Cerebral Cortex*, 1--19. [link (open access)](https://doi.org/10.1093/cercor/bhz038){: .btn .btn--success .btn--small} [preprint](https://doi.org/10.1101/351965){: .btn .btn--inverse .btn--small} 
+Alilović J, Timmermans B, **Reteig LC**, van Gaal S, Slagter HA (2019). No evidence that predictions and attention modulate the first feedforward sweep of cortical information processing. *Cerebral Cortex*, 1--19. [link (open access)](https://doi.org/10.1093/cercor/bhz038){: .btn .btn--success .btn--small} [preprint](https://doi.org/10.1101/351965){: .btn .btn--inverse .btn--small}
 
 **Reteig LC**, Knapen T, Roelofs FJFW, Ridderinkhof KR, Slagter, HA (2018). No evidence that frontal eye field tDCS affects latency or accuracy of prosaccades. *Front. Neurosci.* 12:617. [link (open access)](https://doi.org/10.3389/fnins.2018.00617){: .btn .btn--success .btn--small} [preprint](https://doi.org/10.1101/351304){: .btn .btn--inverse .btn--small} [OSF page](https://osf.io/8jpv9){: .btn .btn--info .btn--small} [data](https://doi.org/10.21942/uva.6462770){: .btn .btn--warning .btn--small} [code](https://github.com/lcreteig/sacc-tDCS){: .btn .btn--primary .btn--small}
 
